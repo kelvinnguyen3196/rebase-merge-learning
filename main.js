@@ -1,3 +1,3 @@
-const hello = `hello there from first person again`;
+const hello = `hello there this is the bug fix`;
 
 console.log(hello);
