@@ -1,3 +1,3 @@
-const hello = `hello there from origin`;
+const hello = `hello there from second person`;
 
 console.log(hello);
