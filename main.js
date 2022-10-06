@@ -1,5 +1,6 @@
 const hello = `hello there this is the bug fix`;
 
-const newFeature = `this is a new feature that i am working on`;
+const newFeature = `i am working on a new feature`;
+const secondFeature = `this is the second feature`;
 
 console.log(hello);
